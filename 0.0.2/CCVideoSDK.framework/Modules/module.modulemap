@@ -1,0 +1,6 @@
+framework module CCVideoSDK {
+  umbrella header "CCVideoSDK.h"
+
+  export *
+  module * { export * }
+}
